@@ -54,7 +54,6 @@ Driven by clean code, pragmatic design, and continuous learning — I like turni
 ---
 
 # 🚀 Featured Projects
-> Click the repo names to explore.
 
 - **Automated Donation Platform** — Full-stack system for donors, charities, and admins.  
   `React (Redux) + Flask + PostgreSQL` — donations, recurring payments, multi-role dashboards.  
@@ -89,8 +88,16 @@ Driven by clean code, pragmatic design, and continuous learning — I like turni
 
 ---
 
-### ⚙️ Pro Tip
+# ⚙️ Pro Tip
 Want a polished, on-brand header for this README (tech gradient + name + role + top stack)? I can generate a high-quality SVG/PNG banner, optimized for GitHub, and provide the exact embed code — ready to paste into your repo. Say the word and I’ll create one tailored to your colors and tagline.
+
+---
+# ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+# 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=simon-tiphy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 ---
