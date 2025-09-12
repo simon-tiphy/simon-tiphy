@@ -53,7 +53,11 @@ Driven by clean code, pragmatic design, and continuous learning — I like turni
 
 ---
 
-# 🚀 Featured Projects
+  # 🚀 Featured Projects
+
+- **Payment Notifications Service(private)** — Flask API for SMS & M-Pesa C2B Integration  
+  Secure RESTful API for handling M-Pesa (Daraja) C2B payment callbacks and sending transactional SMS notifications.  
+  🔗 `https://github.com/simon-tiphy/payment-notifications`
 
 - **Automated Donation Platform** — Full-stack system for donors, charities, and admins.  
   `React (Redux) + Flask + PostgreSQL` — donations, recurring payments, multi-role dashboards.  
@@ -64,6 +68,7 @@ Driven by clean code, pragmatic design, and continuous learning — I like turni
 
 - **Portfolio / Personal Site** — A fast, responsive Next.js portfolio showcasing projects and blog.  
   🔗 `https://github.com/simon-tiphy/portfolio`
+
   
 
 ---
