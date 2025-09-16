@@ -59,6 +59,10 @@ Driven by clean code, pragmatic design, and continuous learning — I like turni
   Secure RESTful API for handling M-Pesa (Daraja) C2B payment callbacks and sending transactional SMS notifications.  
   🔗 `https://github.com/simon-tiphy/payment-notifications`
 
+- **Sales Tracking System** — A comprehensive sales tracking platform for lead management, opportunity tracking, and performance analytics.  
+  `React + Vite + Tailwind CSS + SQLite` — role-based access, secure data, and visual sales pipelines.  
+  🔗 `https://github.com/simon-tiphy/optivensalestracking-system-`
+
 - **Automated Donation Platform** — Full-stack system for donors, charities, and admins.  
   `React (Redux) + Flask + PostgreSQL` — donations, recurring payments, multi-role dashboards.  
   🔗 `https://github.com/simon-tiphy/donation-platform`
